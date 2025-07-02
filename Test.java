@@ -1,5 +1,3 @@
-package first_project;
-
 public class Test {
 
 	// write a code to add to number
